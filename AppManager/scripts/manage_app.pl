@@ -2,8 +2,6 @@
 use strict;
 use warnings FATAL => 'all';
 
-#use lib "../modules";
-
 use Getopt::Long;
 use Data::Dumper;
 use feature qw(say);
